@@ -1,0 +1,14 @@
+{
+  "name": "paginawedconchapgpt",
+  "version": "1.0.0",
+  "description": "Creando con ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d assets"
+  },
+  "author": "Andres Felipe Giraldo - Felipe6668.afgg@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
